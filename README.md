@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/lwolf/helm-kubectl-docker.svg?branch=master)](https://travis-ci.org/lwolf/helm-kubectl-docker)
 
 # helm-kubectl-docker
 docker image with helm and kubectl installed
